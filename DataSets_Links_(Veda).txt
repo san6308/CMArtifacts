@@ -1,0 +1,11 @@
+https://www.appsloveworld.com/sample-excel-data/
+
+https://www.yelp.com/dataset
+
+https://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
+
+AMI
+
+https://www.youtube.com/watch?v=0YY7_k-Asmk
+===============
+invalid table name de_hier_industry 
